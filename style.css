@@ -1,0 +1,22 @@
+.navbar-brand {
+    font-size: 40px;
+    margin-left: 50px;
+}
+
+.container-fluid {
+    justify-content: center;
+}
+
+.instructions {
+    transform: scale(0.3);
+    margin-top: -900px;
+    margin-left: -800px;
+}
+
+.card {
+    margin: 20px;
+}
+
+.instructions-title {
+    font-size: 150px;
+}
